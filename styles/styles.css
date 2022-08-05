@@ -1,28 +1,8 @@
-@font-face {
-  font-family: "BradfordLLWeb-Italic";
-  src: url("/fonts/BradfordLLWeb-Italic.woff") format("woff");
-}
-
-@font-face {
-  font-family: "BradfordLLWeb";
-  src: url("/fonts/BradfordLLWeb-Regular.woff") format("woff");
-}
-
-@font-face {
-  font-family: "LabilGrotesk";
-  src: url("/fonts/LabilGrotesk-Regular.woff") format("woff");
-}
-
-@font-face {
-  font-family: "LabilGrotesk-Variable";
-  src: url("/fonts/LabilGrotesk-Variable.woff2") format("woff2");
-}
-
 body {
   padding: 15px 30px;
   min-width: 300px;
   overflow-x: auto;
-  font-family: "LabilGrotesk", Arial, Helvetica, sans-serif;
+  font-family: "Raleway", Arial, Helvetica, sans-serif;
   font-weight: 400;
   letter-spacing: 0.1rem;
   color: rgb(43, 43, 43);
@@ -46,7 +26,7 @@ button {
 }
 
 p {
-  font-family: "BradfordLLWeb";
+  font-family: "Tiro Devanagari Hindi";
   font-weight: 100;
   line-height: 2rem;
   letter-spacing: 0.08rem;
@@ -106,7 +86,7 @@ input {
 
 .page-header p {
   font-size: 1.1rem;
-  font-family: "LabilGrotesk", Arial, Helvetica, sans-serif;
+  font-family: "Raleway", Arial, Helvetica, sans-serif;
   letter-spacing: 0.1rem;
   line-height: 14px;
 }
@@ -196,7 +176,7 @@ input {
   font-size: 1.1rem;
   line-height: 16px;
   color: rgb(103, 103, 103);
-  font-family: "LabilGrotesk", Arial, Helvetica, sans-serif;
+  font-family: "Raleway", Arial, Helvetica, sans-serif;
   margin-block-end: 20px;
 }
 
@@ -560,7 +540,7 @@ input {
 .campaigning-header p {
   display: inline;
   color: rgb(103, 103, 103);
-  font-family: "LabilGrotesk", Arial, Helvetica, sans-serif;
+  font-family: "Raleway", Arial, Helvetica, sans-serif;
   font-size: 13px;
   letter-spacing: 0.1rem;
   line-height: 19px;
@@ -758,7 +738,7 @@ input {
 .footer-section p,
 .footer-section h3 {
   color: rgb(103, 103, 103);
-  font-family: "LabilGrotesk";
+  font-family: "Raleway";
   font-size: 1.3rem;
   margin: 0;
   line-height: 1.6rem;
